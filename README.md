@@ -1,2 +1,2 @@
 # sample-git
-git training repository
+更新
